@@ -10,7 +10,7 @@ spec:
   - hosts:
     - test2.anaeleboo.com
     - test3.anaeleboo.com
-    secretName: example-tls
+    secretName: example-tls3
   rules:
   - host: test2.anaeleboo.com
     http:
